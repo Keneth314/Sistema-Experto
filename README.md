@@ -1,5 +1,8 @@
 # Sistema-Experto
 
+## Resumen del desarrollo
+Nos basamos en esta [*tesis*](https://tesis.usat.edu.pe/bitstream/20.500.12423/4179/1/TL_CastroMazabelArnaldo.pdf) para obtener los síntomas del banano, con estos síntomas diseñamos el gráfo AND-OR y luego con ello las reglas prolog para realizar el algoritmo del sistema experto. Finalmente se diseña los formulario, se implementa el sistema experto en PHP y funcionales para guardar los resultados en la BD.
+
 ![1](https://user-images.githubusercontent.com/51729381/215943236-16aee192-0340-484f-aa1e-894814f2bb96.PNG)
 
 ![2](https://user-images.githubusercontent.com/51729381/215943240-19b00f94-b687-4428-bae8-b8973db230aa.PNG)
